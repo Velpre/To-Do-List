@@ -5,8 +5,6 @@ const app = express();
 // Lager array for å samle alle tasks som user legger til
 let tasks = ["Buy Food", "Make Food", "Eat Food"];
 
-
-
 app.set("view engine", "ejs");
 app.use(bodyParser.urlencoded({extended:true}));
 app.use(express.static("public"));
