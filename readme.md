@@ -1,2 +1,2 @@
-lærer mere om ejs, API, express, node, npm osv..
+ejs, API, express, node, npm osv..
 
